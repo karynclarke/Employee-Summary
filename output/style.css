@@ -1,0 +1,18 @@
+.jumbotron {
+    color: white;
+    background-color: darkblue;
+}
+
+.card-header {
+    background-color: rgb(200, 180, 229);
+    border-radius: 3px;
+}
+
+.card-body {
+    font-weight: bold;
+    background-color: rgb(213, 238, 246);
+}
+
+h1 {
+    font-size: 48px;
+}
